@@ -1,9 +1,7 @@
 # PHYHOME-FHR2100GZ
-HACKING ONU FHR2100GZ da Phyhome
+ONU FHR2100GZ da Phyhome
 
-**Descrição**
-
-A ONU FHR2100GZ da Phyhome, oferece suporte para up-link e down-link com taxas de transmissão de 1 Gbps simétrica, provendo seus usuários com qualidade de serviço garantida e alocação de banda flexível. 
+**Descrição:** A ONU FHR2100GZ da Phyhome, oferece suporte para up-link e down-link com taxas de transmissão de 1 Gbps simétrica, provendo seus usuários com qualidade de serviço garantida e alocação de banda flexível. 
 
     Dual mode: Pode acessar OLT’s EPON e GPON 
     Plug and play: Integre detecção automática, configuração automática e atualização de firmware automática 
