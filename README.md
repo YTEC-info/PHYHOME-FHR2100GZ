@@ -12,8 +12,7 @@ ONU FHR2100GZ da Phyhome
     Suporta bridge, route e modo misto de bridge/route 
 
 
-# Dados Técnicos
-# Geral: 
+# Dados Técnicos Gerais: 
     Padrões GPON: ITU-T G.984, IEEE802.3 
     Distância: Máximo de 20 Km 
     Taxa de dados: 1 interface GPON/EPON auto adaptativa, SC single mode/single fiber; Funcionando com GPON, taxa downstream 2.5 Gbps, taxa upstream 1.25 Gbps; Funcionando como EPON, taxa de downstream 1.25 Gbps, taxa upstream 1.25 Gbps 
