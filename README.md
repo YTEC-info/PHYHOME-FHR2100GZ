@@ -1,7 +1,7 @@
 # PHYHOME-FHR2100GZ
-- HACKING ONU FHR2100GZ da Phyhome
-- Descrição
+HACKING ONU FHR2100GZ da Phyhome
 
+**Descrição
 A ONU FHR2100GZ da Phyhome, oferece suporte para up-link e down-link com taxas de transmissão de 1 Gbps simétrica, provendo seus usuários com qualidade de serviço garantida e alocação de banda flexível. 
 
     Dual mode: Pode acessar OLT’s EPON e GPON 
@@ -13,7 +13,7 @@ A ONU FHR2100GZ da Phyhome, oferece suporte para up-link e down-link com taxas d
     Suporta bridge, route e modo misto de bridge/route 
 
 
-# Dados Técnicos -----------
+# Dados Técnicos
 # Geral: 
     Padrões GPON: ITU-T G.984, IEEE802.3 
     Distância: Máximo de 20 Km 
