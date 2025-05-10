@@ -1,6 +1,6 @@
 # PHYHOME FHR2100GZ
 
-<p><img alt="" src="https://raw.githubusercontent.com/YTEC-info/PHYHOME-FHR2100GZ/main/FOTOS/ONU.jpg?token=GHSAT0AAAAAAB4PIFZAHFEPUOD4W5BSTLDYY75QINA" height:249px; width:500px" /></p>
+<p><img alt="" src="https://raw.githubusercontent.com/YTEC-info/PHYHOME-FHR2100GZ/main/FOTOS/ONU.jpg" height:249px; width:500px" /></p>
 ONU FHR2100GZ da Phyhome
 
 **Descrição:** A ONU FHR2100GZ da Phyhome, oferece suporte para up-link e down-link com taxas de transmissão de 1 Gbps simétrica, provendo seus usuários com qualidade de serviço garantida e alocação de banda flexível. 
